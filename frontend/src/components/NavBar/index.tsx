@@ -1,4 +1,3 @@
-
 import ImgDsDark from 'assets/img/ds_dark.svg';
 
 const NavBar = () => {
