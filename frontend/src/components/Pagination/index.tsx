@@ -1,5 +1,4 @@
 import { SalePage } from "types/sale";
-import { isTemplateExpression } from "typescript";
 
 type Props = {
     page: SalePage;
