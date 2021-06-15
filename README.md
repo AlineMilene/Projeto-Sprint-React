@@ -9,14 +9,10 @@ DsVendas é uma aplicação full stack web e mobile construída durante a 3ª ed
 A aplicação consiste em um dashboard de vendas, onde os dados são exibidos foram inseridos no BD apenas para exibição, são listados no app web com gráficos baseados nestes dados.
 
 ## Layout web
-![Web Home](https://user-images.githubusercontent.com/54823221/117588191-4cb15480-b0f8-11eb-9224-2ca227e2b730.png)
-
 ![Web Dashboard](https://user-images.githubusercontent.com/54823221/117588256-9ac65800-b0f8-11eb-9268-3c25e691b3c3.png)
 
 
 ## Layout mobile
-![Mobile Home](https://user-images.githubusercontent.com/54823221/117588286-cd705080-b0f8-11eb-9e41-9bbc8dd1fea8.png)
-
 ![Mobile Dashboard](https://user-images.githubusercontent.com/54823221/117588288-cfd2aa80-b0f8-11eb-8789-e1fee22b12c8.png)
 
 
@@ -78,6 +74,6 @@ yarn start
 
 # Autor
 
-Aline Milene Martins dos Santos
+Aline Milene Martins dos Santos - São Paulo - SP
 
 https://www.linkedin.com/in/aline-milene-1b3309193/
