@@ -9,12 +9,11 @@ DsVendas é uma aplicação full stack web e mobile construída durante a 3ª ed
 A aplicação consiste em um dashboard de vendas, onde os dados são exibidos foram inseridos no BD apenas para exibição, são listados no app web com gráficos baseados nestes dados.
 
 ## Layout web
-![Web Dashboard](https://user-images.githubusercontent.com/54823221/117588256-9ac65800-b0f8-11eb-9268-3c25e691b3c3.png)
+<img height="60%" width="60%" src=https://user-images.githubusercontent.com/54823221/117588256-9ac65800-b0f8-11eb-9268-3c25e691b3c3.png alt="Picture Dashboard Desktop version">
 
 
 ## Layout mobile
-![Mobile Dashboard](https://user-images.githubusercontent.com/54823221/117588288-cfd2aa80-b0f8-11eb-8789-e1fee22b12c8.png)
-
+<img height="20%" width="30%" src=https://user-images.githubusercontent.com/54823221/117588288-cfd2aa80-b0f8-11eb-8789-e1fee22b12c8.png alt="Picture Dashboard Mobile version">
 
 
 ## Modelo conceitual
