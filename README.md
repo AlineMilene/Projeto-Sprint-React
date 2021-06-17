@@ -24,7 +24,7 @@ A aplicação consiste em um dashboard de vendas, onde os dados são exibidos fo
 - Java
 - Spring Boot
 - JPA / Hibernate
-- Maven![desktop dashboard]
+- Maven
 
 ## Front end
 - HTML / CSS / JS / TypeScript
