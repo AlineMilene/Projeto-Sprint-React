@@ -75,4 +75,4 @@ yarn start
 
 Aline Milene Martins dos Santos - São Paulo - SP
 
-https://www.linkedin.com/in/aline-milene-1b3309193/
+https://www.linkedin.com/in/alinemilene
